@@ -25,6 +25,7 @@ export default function Headers() {
           src="https://hulu.tv/3mJpEeB"
           width={200}
           height={100}
+          alt="logo"
         />
       </header>
     </>
