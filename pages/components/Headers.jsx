@@ -8,7 +8,7 @@ import {
   CollectionIcon,
   SearchIcon,
 } from "@heroicons/react/outline";
-function Headers() {
+export default function Headers() {
   return (
     <>
       <header className="flex flex-col sm:flex-row m-5 h-auto justify-between">
@@ -31,4 +31,5 @@ function Headers() {
   );
 }
 
-export default Headers;
+
+
